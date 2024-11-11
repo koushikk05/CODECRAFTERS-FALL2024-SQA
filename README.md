@@ -4,5 +4,5 @@
 
 ### Team members:
 1. Mounika Ghanta
-2. Annadevara Pavan Kalyan
+2. Pavan Kalyan Annadevara
 3. Koushik Govardhanam
